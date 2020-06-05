@@ -1,3 +1,4 @@
+//Based on: https://www.mschoeffler.de/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/
 #include <Wire.h>;
 #include <ESP8266WiFi.h>
 #include <Adafruit_NeoPixel.h>;
